@@ -1,0 +1,11 @@
+.person {
+  margin-top: 30px;
+  display: flex;
+  max-height: 10%;
+}
+
+.card {
+  justify-content: center;
+  width: 40%;
+  margin: 0 auto;
+}
