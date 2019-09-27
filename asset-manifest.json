@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/podderud/static/css/main.c66b1d5b.chunk.css",
+    "main.js": "/podderud/static/js/main.54b6a06c.chunk.js",
+    "main.js.map": "/podderud/static/js/main.54b6a06c.chunk.js.map",
+    "runtime-main.js": "/podderud/static/js/runtime-main.7c7865b0.js",
+    "runtime-main.js.map": "/podderud/static/js/runtime-main.7c7865b0.js.map",
+    "static/css/2.0624914a.chunk.css": "/podderud/static/css/2.0624914a.chunk.css",
+    "static/js/2.29c5679d.chunk.js": "/podderud/static/js/2.29c5679d.chunk.js",
+    "static/js/2.29c5679d.chunk.js.map": "/podderud/static/js/2.29c5679d.chunk.js.map",
+    "index.html": "/podderud/index.html",
+    "precache-manifest.2abf1f0cdebf6468f12e2dba6dce2f38.js": "/podderud/precache-manifest.2abf1f0cdebf6468f12e2dba6dce2f38.js",
+    "service-worker.js": "/podderud/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/podderud/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c66b1d5b.chunk.css.map": "/podderud/static/css/main.c66b1d5b.chunk.css.map"
+  }
+}
